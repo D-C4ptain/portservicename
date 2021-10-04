@@ -1,4 +1,4 @@
-# Simple Common Port Service Identifyer:
+# Simple Common Port Service Identifier:
 __________________________
 
 ## portservicename.py  
