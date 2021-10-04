@@ -8,7 +8,7 @@ __________________________
 - USAGE:
 	    python portservicename.py XW XXXX XZ XYZ
 	    
-- EXAMPLE
+- EXAMPLE:
 	    Python portservicename.py 80 21 
 	  
 	 
