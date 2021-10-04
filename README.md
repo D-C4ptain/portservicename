@@ -1,5 +1,4 @@
 # Simple Common Port Service Identifier:
-__________________________
 
 ## portservicename.py  
     This is just a simple script to identify some of the common ports you may
