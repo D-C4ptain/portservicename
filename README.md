@@ -51,4 +51,4 @@ This simple port service identifier was created and is maintained by **[d_captai
 
 ## Copyright and License
 
-Copyright 2013-2021 under the [MIT] (https://github.com/d-captainkenya/portservicename/LICENSE) license.
+Copyright 2013-2021 under the [MIT] (https://github.com/d-captainkenya/portservicename/blob/main/LICENSE) license.
