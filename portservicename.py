@@ -17,7 +17,7 @@ def disp():
     input_port()
 
 def usage():
-    print("please specify a port numbers correctly!")
+    print("please specify port numbers correctly!")
     print("\nUSAGE:")
     print("\tpython portservice.py XW XXXX XZ XYZ")
     print("EXAMPLE\n\t  Python portservice.py 80 21\n")
