@@ -40,7 +40,7 @@ Have a bug or an issue with this port service identifier?
 
 ## D_CAPTAINKENYA
 
-This simple port service identifier was created and is maintained by **[d_captainkenya](http://d-captainkenya.github.io/)**
+This simple port service identifier was created and is maintained by **[d_captainkenya]**
 
 * https://twitter.com/d_captainkenya
 * https://github.com/d-captainkenya
