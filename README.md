@@ -43,6 +43,7 @@ Have a bug or an issue with this port service identifier?
 This simple port service identifier was created and is maintained by **[d_captainkenya]**
 
 * https://twitter.com/d_captainkenya
+* https://d-captainkenya.medium.com
 * https://github.com/d-captainkenya
 * https://www.facebook.com/dee.captainkenya
 * https://www.youtube.com/channel/UCPPxJ2XmVOqfyvb39x_srKg
