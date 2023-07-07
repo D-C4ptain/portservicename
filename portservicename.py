@@ -6,7 +6,7 @@ import pyfiglet
 def disp():
     print("\n"+"*"*65) 
     print(pyfiglet.figlet_format("          DcapPort"))
-    print("*\t\t\tD_captainkenya\t\t\t\t*")
+    print("*\t\t\t\td-c4ptain\t\t\t\t*")
     print("*\t\t    Dcaptainkenya@gmail.com\t\t\t*")
     print("*\t      https://www.D-captainkenya.github.io\t\t*")
     print("*"*65)
